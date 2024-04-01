@@ -9,7 +9,7 @@
       "value": "MSVMI-LoganalyticsWorkspace"
     },
     "dataCollectionRuleId": {
-      "value": "/subscriptions/ff206486-4509-4737-8aed-81dbee964a16/resourcegroups/my-resource-group/providers/microsoft.insights/datacollectionrules/my-dcr"
+      "value": "/subscriptions/ff206486-4509-4737-8aed-81dbee964a16/resourcegroups/RGLoganalyticsWorkspace/providers/microsoft.insights/datacollectionrules/MSVMI-LoganalyticsWorkspace"
     }
    }
 }
