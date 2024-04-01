@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmName": {
+      "value": "VMforLGW"
+    },
+    "associationName": {
+      "value": "MSVMI-LoganalyticsWorkspace"
+    },
+    "dataCollectionRuleId": {
+      "value": "/subscriptions/ff206486-4509-4737-8aed-81dbee964a16/resourcegroups/my-resource-group/providers/microsoft.insights/datacollectionrules/my-dcr"
+    }
+   }
+}
